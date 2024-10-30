@@ -1,0 +1,26 @@
+ELEMENTOS:
+Microscópio;
+Homem com cabelos castanhos escuros penteados para trás, um rosto oval, olhos castanhos, óculos preto e quadrado, nariz reto, lábios finos, barba é bem aparada e ele ter entre 20 e 30 anos;
+Mesa;
+notebook (com o circuitoc elétrico na tela);
+Lâmpada incandescente (posicionada de forma a trazer a sensação de que o homem está tendo uma ideia);
+impressora 3d;
+cortadora a laser;
+CNC de impressão de placas eletrônicas; e
+Equipe de execução de projetos.
+
+AMBIENTE:
+laboratório Maker de projetos DIY
+
+CONTEXTO:
+Instrutor (silhueta humana), orientando e trabalhando em conjunto com a equipe para a criação de um novo protótipo
+visualizar a cena como um espaço vibrante e colaborativo. 
+Centralizamos a imagem com o homem descrito, destacando suas características distintivas: cabelos castanhos escuros penteados para trás, rosto oval, olhos castanhos através de óculos pretos e quadrados, e uma barba bem aparada. Ele está inclinado sobre uma mesa de trabalho, onde repousa um notebook exibindo circuitos elétricos na tela, sugerindo sua dedicação à inovação, pesquisa e desenvolvimento.
+No lado esquerdo da imagem, posicionamos um microscópio, simbolizando a precisão e a atenção aos detalhes necessários no desenvolvimento de protótipos. Ao lado direito, uma lâmpada incandescente brilha suavemente, criando a clássica "ideia brilhante" sobre a cabeça do instrutor, enquanto ele explica conceitos para a equipe.
+Ao fundo, podemos ver uma impressora 3D, uma cortadora a laser e uma CNC de impressão de placas eletrônicas, cada uma em seu devido lugar, sugerindo a variedade de ferramentas disponíveis no laboratório. A equipe de execução de projetos está envolvida, em silhuetas colaborativas, mostrando o esforço conjunto no ambiente. A iluminação é suave e focada, destacando os elementos sem distorção, mantendo a clareza e a coerência da cena. Essa composição em escala 4x1 permite que todos os elementos sejam exibidos de forma equilibrada, criando uma visão panorâmica e inspiradora do laboratório Maker.
+
+SOLICITAÇÃO:
+Crie sua imagem tendo em mente que deve exibir uma área útil de desenho em escala 4x1 (1792x448).
+
+O QUE NAO QUERO VER:
+Formas distorcidas e fora de contexto. Quaisquer elementos que não favoreçam o contexto
