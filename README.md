@@ -1,7 +1,4 @@
 # 🏫 Ecossistema de IA para Planos de Aula
-
-## 📊 Versão: 2.0 | Atualização: 2024
-
 ---
 
 ## 🎯 Visão Geral
