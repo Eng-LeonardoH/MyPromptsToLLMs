@@ -1,5 +1,4 @@
 # 🏫 Ecossistema de IA para Planos de Aula
----
 
 ## 🎯 Visão Geral
 
