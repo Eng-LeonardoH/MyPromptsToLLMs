@@ -149,11 +149,11 @@ Compreender os conceitos fundamentais de Inteligência Artificial, suas aplicaç
 
 ## 📎 Anexos
 
-- [Slides da Apresentação](link)
-- [Quiz Kahoot](link)
-- [Roteiro de Debate](link)
-- [Infográfico: IA no Dia a Dia](link)
-- [Glossário de Termos Técnicos](link)
+- [Slides da Apresentação](./slides_ia.pptx)
+- [Quiz Kahoot](https://kahoot.com)
+- [Roteiro de Debate](./roteiro_debate.md)
+- [Infográfico: IA no Dia a Dia](./infografico_ia.md)
+- [Glossário de Termos Técnicos](./glossario.md)
 
 ---
 
@@ -197,6 +197,24 @@ Mantenha a estrutura e adapte:
 - Termos técnicos com equivalentes locais
 - Referências a ferramentas locais
 ```
+
+---
+
+## 📚 Arquivos Relacionados
+
+### Templates e Modelos
+- [Template de Plano de Aula](./template_plano_aula.md) - Base para criar novos planos
+- [Template de Tradução](../04_Internacionalizacao/template_traducao.md) - Para internacionalização deste plano
+
+### Adaptações para Perfis de Alunos
+- [Perfil de Aprendizagem Visual](../05_Perfis_Alunos/perfil_visual.md) - Estratégias para adaptar materiais
+- [Perfil de Aprendizagem Auditivo](../05_Perfis_Alunos/perfil_auditivo.md) - Adaptações para alunos auditivos
+- [Perfil com Dificuldades de Leitura](../05_Perfis_Alunos/perfil_leitura_dificil.md) - TDAH, dislexia e outras
+- [Perfil de Alto Interesse](../05_Perfis_Alunos/perfil_alto_interesse.md) - Extensões e aprofundamento
+
+### Prompts Relacionados
+- [Prompt para ChatGPT](../06_Prompts/prompt_chatgpt_plano_aula.txt) - Para gerar novos planos
+- [Prompt para Copilot Word](../06_Prompts/prompt_copilot_word.txt) - Para materiais escritos
 
 ---
 

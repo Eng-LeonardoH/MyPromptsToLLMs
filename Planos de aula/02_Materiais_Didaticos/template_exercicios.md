@@ -171,5 +171,24 @@ c) [Resposta]
 
 ---
 
+## 📚 Arquivos Relacionados
+
+### Templates e Modelos
+- [Template de Plano de Aula](../01_Planos_Aula/template_plano_aula.md) - Origem do plano de aula
+- [Template de Texto Didático](./template_texto_didatico.md) - Conteúdo teórico relacionado
+- [Template de Apresentação](../03_Apresentacoes/template_apresentacao.md) - Slides do conteúdo
+- [Template de Tradução](../04_Internacionalizacao/template_traducao.md) - Para internacionalização
+
+### Adaptações para Perfis de Alunos
+- [Perfil com Dificuldades de Leitura](../05_Perfis_Alunos/perfil_leitura_dificil.md) - Adaptações para TDAH e dislexia
+- [Perfil de Alto Interesse](../05_Perfis_Alunos/perfil_alto_interesse.md) - Extensões e aprofundamento
+- [Perfil de Aprendizagem Visual](../05_Perfis_Alunos/perfil_visual.md) - Adaptações visuais
+
+### Ferramentas e Guias
+- [Prompt para Copilot Word](../06_Prompts/prompt_copilot_word.txt) - Para criar exercícios
+- [Checklist de Ética](../07_Guias/checklist_etica.md) - Verificações obrigatórias
+
+---
+
 *Template criado para uso com Microsoft Copilot no Word e ChatGPT*
 

@@ -235,5 +235,25 @@ Marque o que você aprendeu:
 
 ---
 
+## 📚 Arquivos Relacionados
+
+### Templates que Podem Ser Adaptados
+- [Template de Plano de Aula](../01_Planos_Aula/template_plano_aula.md) - Seção diferenciação
+- [Template de Texto Didático](../02_Materiais_Didaticos/template_texto_didatico.md) - Simplificação de texto
+- [Template de Exercícios](../02_Materiais_Didaticos/template_exercicios.md) - Exercícios adaptados
+
+### Prompts Relacionados
+- [Prompt para Copilot Word](../06_Prompts/prompt_copilot_word.txt) - Para criar materiais adaptados
+
+### Outros Perfis de Alunos
+- [Perfil de Aprendizagem Visual](./perfil_visual.md) - Alternativa visual ao texto
+- [Perfil de Aprendizagem Auditivo](./perfil_auditivo.md) - Alternativa em áudio
+- [Perfil de Alto Interesse](./perfil_alto_interesse.md) - Extensões e aprofundamento
+
+### Guias de Referência
+- [Checklist de Ética](../07_Guias/checklist_etica.md) - Privacidade e acessibilidade
+
+---
+
 *Template adaptado para uso com ChatGPT e Microsoft Copilot*
 

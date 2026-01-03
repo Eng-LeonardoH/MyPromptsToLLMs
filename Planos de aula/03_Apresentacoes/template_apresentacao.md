@@ -332,5 +332,22 @@ Use ChatGPT para revisar sua resposta antes de entregar!
 
 ---
 
+## 📚 Arquivos Relacionados
+
+### Templates e Modelos
+- [Template de Plano de Aula](../01_Planos_Aula/template_plano_aula.md) - Origem do plano de aula
+- [Template de Texto Didático](../02_Materiais_Didaticos/template_texto_didatico.md) - Conteúdo para slides
+- [Template de Exercícios](../02_Materiais_Didaticos/template_exercicios.md) - Atividades relacionadas
+
+### Adaptações para Perfis de Alunos
+- [Perfil de Aprendizagem Visual](../05_Perfis_Alunos/perfil_visual.md) - Estratégias para alunos visuais
+
+### Ferramentas e Guias
+- [Prompt para Copilot PowerPoint](../06_Prompts/prompt_copilot_powerpoint.txt) - Para criar apresentações
+- [Prompt para Copilot Designer](../06_Prompts/prompt_copilot_designer.txt) - Para criar imagens
+- [Guia de Uso de Ferramentas](../07_Guias/guia_uso_ferramentas.md) - Instruções detalhadas
+
+---
+
 *Template criado para uso com Microsoft Copilot no PowerPoint*
 

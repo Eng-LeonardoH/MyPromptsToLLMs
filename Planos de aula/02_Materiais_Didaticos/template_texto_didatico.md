@@ -143,9 +143,29 @@ Após a leitura deste texto, o aluno será capaz de:
 
 ## 📎 Anexos
 
-- [Link para material complementar](link)
-- [Link para vídeo explicativo](link)
-- [Link para exercício adicional](link)
+- [Material complementar](./material_complementar.md)
+- [Vídeo explicativo](./video_explicativo.md)
+- [Exercício adicional](./exercicio_adicional.md)
+
+---
+
+## 📚 Arquivos Relacionados
+
+### Templates e Modelos
+- [Template de Plano de Aula](../01_Planos_Aula/template_plano_aula.md) - Origem do plano de aula
+- [Template de Exercícios](./template_exercicios.md) - Atividades de fixação relacionadas
+- [Template de Apresentação](../03_Apresentacoes/template_apresentacao.md) - Slides do conteúdo
+- [Template de Tradução](../04_Internacionalizacao/template_traducao.md) - Para internacionalização
+
+### Adaptações para Perfis de Alunos
+- [Perfil de Aprendizagem Visual](../05_Perfis_Alunos/perfil_visual.md) - Adaptações visuais
+- [Perfil de Aprendizagem Auditivo](../05_Perfis_Alunos/perfil_auditivo.md) - Adaptações em áudio
+- [Perfil com Dificuldades de Leitura](../05_Perfis_Alunos/perfil_leitura_dificil.md) - Simplificação de texto
+
+### Ferramentas e Guias
+- [Prompt para Copilot Word](../06_Prompts/prompt_copilot_word.txt) - Para criar este material
+- [Checklist de Ética](../07_Guias/checklist_etica.md) - Verificações obrigatórias
+- [Guia de Uso de Ferramentas](../07_Guias/guia_uso_ferramentas.md) - Instruções detalhadas
 
 ---
 

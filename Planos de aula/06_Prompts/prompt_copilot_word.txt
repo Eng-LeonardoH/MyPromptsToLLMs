@@ -423,6 +423,22 @@ Antes de finalizar, VERIFIQUE:
 
 ---
 
+## 📚 Arquivos Relacionados
+
+### Templates de Materiais
+- [Template de Texto Didático](../02_Materiais_Didaticos/template_texto_didatico.md) - Template de saída
+- [Template de Exercícios](../02_Materiais_Didaticos/template_exercicios.md) - Exercícios gerados
+
+### Perfis de Alunos Mencionados
+- [Perfil com Dificuldades de Leitura](../05_Perfis_Alunos/perfil_leitura_dificil.md) - Variação TDAH
+- [Perfil de Alto Interesse](../05_Perfis_Alunos/perfil_alto_interesse.md) - Extensões avançadas
+
+### Ferramentas e Guias
+- [Guia de Uso de Ferramentas](../07_Guias/guia_uso_ferramentas.md) - Instruções de uso
+- [Checklist de Ética](../07_Guias/checklist_etica.md) - Considerações éticas
+
+---
+
 *Prompt otimizado para Microsoft Copilot no Word*
 *Compatible com Word Online e Word Desktop*
 

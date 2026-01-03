@@ -166,9 +166,9 @@ Texto a traduzir:
 
 ## 📎 Anexos
 
-- [Comparativo original vs. traduzido](link)
-- [Registro de decisões de tradução](link)
-- [Feedback de revisor nativo](link)
+- [Comparativo original vs. traduzido](./comparativo_original_traduzido.md)
+- [Registro de decisões de tradução](./registro_decisoes_tradução.md)
+- [Feedback de revisor nativo](./feedback_revisor.md)
 
 ---
 
@@ -186,6 +186,20 @@ Texto a traduzir:
 ### Feedback do Público-alvo
 
 [Espaço para registrar feedback dos alunos]
+
+---
+
+## 📚 Arquivos Relacionados
+
+### Templates e Modelos
+- [Template de Plano de Aula](../01_Planos_Aula/template_plano_aula.md) - Material original
+- [Template de Texto Didático](../02_Materiais_Didaticos/template_texto_didatico.md) - Material para traduzir
+- [Template de Apresentação](../03_Apresentacoes/template_apresentacao.md) - Apresentações em outros idiomas
+
+### Ferramentas e Guias
+- [Prompt para Copilot Word](../06_Prompts/prompt_copilot_word.txt) - Para auxiliar na tradução
+- [Checklist de Ética](../07_Guias/checklist_etica.md) - Verificações obrigatórias
+- [README Principal](../../README.md) - Visão geral do projeto
 
 ---
 

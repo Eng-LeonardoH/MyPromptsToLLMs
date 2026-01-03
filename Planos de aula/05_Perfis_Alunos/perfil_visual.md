@@ -181,5 +181,25 @@ OUTPUT ESPERADO:
 
 ---
 
+## 📚 Arquivos Relacionados
+
+### Templates que Podem Ser Adaptados
+- [Template de Plano de Aula](../01_Planos_Aula/template_plano_aula.md) - Seção diferenciação
+- [Template de Texto Didático](../02_Materiais_Didaticos/template_texto_didatico.md) - Adaptações visuais
+- [Template de Exercícios](../02_Materiais_Didaticos/template_exercicios.md) - Exercícios visuais
+- [Template de Apresentação](../03_Apresentacoes/template_apresentacao.md) - Slides visuais
+
+### Outros Perfis de Alunos
+- [Perfil de Aprendizagem Auditivo](./perfil_auditivo.md) - Para alunos que preferem áudio
+- [Perfil com Dificuldades de Leitura](./perfil_leitura_dificil.md) - Alternativas a texto
+- [Perfil de Alto Interesse](./perfil_alto_interesse.md) - Extensões visuais avançadas
+
+### Ferramentas e Guias
+- [Prompt para Copilot Designer](../06_Prompts/prompt_copilot_designer.txt) - Para criar imagens
+- [Prompt para Copilot PowerPoint](../06_Prompts/prompt_copilot_powerpoint.txt) - Slides visuais
+- [Checklist de Ética](../07_Guias/checklist_etica.md) - Considerações de inclusão
+
+---
+
 *Template visual para uso com ChatGPT, Copilot e ferramentas de design*
 

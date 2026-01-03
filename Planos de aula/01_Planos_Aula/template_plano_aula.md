@@ -152,5 +152,26 @@
 
 ---
 
+## 📚 Arquivos Relacionados
+
+### Templates Complementares
+- [Template de Texto Didático](../02_Materiais_Didaticos/template_texto_didatico.md) - Para desenvolver conteúdo expositivo
+- [Template de Exercícios](../02_Materiais_Didaticos/template_exercicios.md) - Para criar atividades de fixação
+- [Template de Apresentação](../03_Apresentacoes/template_apresentacao.md) - Para criar slides educacionais
+- [Template de Tradução](../04_Internacionalizacao/template_traducao.md) - Para internacionalização de materiais
+
+### Adaptações para Perfis de Alunos
+- [Perfil de Aprendizagem Visual](../05_Perfis_Alunos/perfil_visual.md) - Estratégias para alunos visuais
+- [Perfil de Aprendizagem Auditivo](../05_Perfis_Alunos/perfil_auditivo.md) - Estratégias para alunos auditivos
+- [Perfil com Dificuldades de Leitura](../05_Perfis_Alunos/perfil_leitura_dificil.md) - Adaptações para TDAH e dislexia
+- [Perfil de Alto Interesse](../05_Perfis_Alunos/perfil_alto_interesse.md) - Extensões para altas habilidades
+
+### Ferramentas e Guias
+- [Prompt para ChatGPT](../06_Prompts/prompt_chatgpt_plano_aula.txt) - Prompt otimizado para gerar este plano
+- [Checklist de Ética](../07_Guias/checklist_etica.md) - Verificações éticas obrigatórias
+- [Guia de Uso de Ferramentas](../07_Guias/guia_uso_ferramentas.md) - Instruções detalhadas
+
+---
+
 *Modelo criado para uso com ferramentas de IA como ChatGPT e Microsoft Copilot*
 

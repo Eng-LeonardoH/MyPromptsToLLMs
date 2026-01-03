@@ -230,5 +230,25 @@ Proponha uma aplicação completamente nova para [CONCEITO] em um campo não tra
 
 ---
 
+## 📚 Arquivos Relacionados
+
+### Templates que Podem Ser Adaptados
+- [Template de Plano de Aula](../01_Planos_Aula/template_plano_aula.md) - Seção diferenciação
+- [Template de Exercícios](../02_Materiais_Didaticos/template_exercicios.md) - Extensões e desafios
+
+### Prompts Relacionados
+- [Prompt para ChatGPT](../06_Prompts/prompt_chatgpt_plano_aula.txt) - Variações avançadas
+- [Prompt para Copilot Word](../06_Prompts/prompt_copilot_word.txt) - Materiais aprofundados
+
+### Outros Perfis de Alunos
+- [Perfil de Aprendizagem Visual](./perfil_visual.md) - Representações visuais avançadas
+- [Perfil de Aprendizagem Auditivo](./perfil_auditivo.md) - Podcasts educacionais
+- [Perfil com Dificuldades de Leitura](./perfil_leitura_dificil.md) - Diferenciação alternativa
+
+### Guias de Referência
+- [Checklist de Ética](../07_Guias/checklist_etica.md) - Considerações éticas
+
+---
+
 *Template diferenciado para uso com ChatGPT e Microsoft Copilot*
 

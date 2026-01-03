@@ -428,6 +428,24 @@ Antes de finalizar, VERIFIQUE:
 
 ---
 
+## 📚 Arquivos Relacionados
+
+### Templates e Modelos
+- [Template de Plano de Aula](../01_Planos_Aula/template_plano_aula.md) - Template de saída do prompt
+- [Exemplo de Plano de Aula](../01_Planos_Aula/exemplo_plano_aula.md) - Exemplo prático gerado
+
+### Adaptações para Perfis de Alunos
+- [Perfil de Aprendizagem Visual](../05_Perfis_Alunos/perfil_visual.md) - Variação mencionada
+- [Perfil de Aprendizagem Auditivo](../05_Perfis_Alunos/perfil_auditivo.md) - Variação mencionada
+- [Perfil com Dificuldades de Leitura](../05_Perfis_Alunos/perfil_leitura_dificil.md) - Variação mencionada
+- [Perfil de Alto Interesse](../05_Perfis_Alunos/perfil_alto_interesse.md) - Variação mencionada
+
+### Ferramentas e Guias
+- [Guia de Uso de Ferramentas](../07_Guias/guia_uso_ferramentas.md) - Instruções de uso
+- [Checklist de Ética](../07_Guias/checklist_etica.md) - Referências éticas mencionadas
+
+---
+
 *Prompt otimizado para ChatGPT, Claude, e outros LLMs*
 *Compatible com GPT-3.5, GPT-4, e superiores*
 

@@ -205,5 +205,25 @@ Próximo episódio: [TEMA PRÓXIMO]. Até a próxima!"
 
 ---
 
+## 📚 Arquivos Relacionados
+
+### Templates que Podem Ser Adaptados
+- [Template de Plano de Aula](../01_Planos_Aula/template_plano_aula.md) - Seção diferenciação
+- [Template de Texto Didático](../02_Materiais_Didaticos/template_texto_didatico.md) - Adaptações em áudio
+- [Template de Apresentação](../03_Apresentacoes/template_apresentacao.md) - Narração de slides
+
+### Prompts Relacionados
+- [Prompt para ChatGPT](../06_Prompts/prompt_chatgpt_plano_aula.txt) - Variações para adaptações
+
+### Outros Perfis de Alunos
+- [Perfil de Aprendizagem Visual](./perfil_visual.md) - Para alunos que preferem imagens
+- [Perfil com Dificuldades de Leitura](./perfil_leitura_dificil.md) - Alternativas a texto
+- [Perfil de Alto Interesse](./perfil_alto_interesse.md) - Extensões e aprofundamento
+
+### Guias de Referência
+- [Checklist de Ética](../07_Guias/checklist_etica.md) - Considerações de inclusão
+
+---
+
 *Template auditivo para uso com IA de voz e ferramentas de áudio*
 

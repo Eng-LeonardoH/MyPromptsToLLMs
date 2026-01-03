@@ -66,27 +66,54 @@ Planos de aula/
 
 ### 📝 Passo 1: Criar Plano de Aula
 1. Abra o ChatGPT (GPT-4 recomendado)
-2. Copie o prompt em `06_Prompts/prompt_chatgpt_plano_aula.txt`
+2. Copie o prompt em [`06_Prompts/prompt_chatgpt_plano_aula.txt`](06_Prompts/prompt_chatgpt_plano_aula.txt)
 3. Preencha as variáveis `{{TEMA}}`, `{{DISCIPLINA}}`, `{{ANO_SERIE}}`, etc.
 4. Execute o prompt e personalize o resultado
 
 ### 📚 Passo 2: Desenvolver Materiais Didáticos
 1. Abra o Microsoft Word com Copilot ativado
-2. Copie o prompt em `06_Prompts/prompt_copilot_word.txt`
+2. Copie o prompt em [`06_Prompts/prompt_copilot_word.txt`](06_Prompts/prompt_copilot_word.txt)
 3. Personalize com o tema e tipo de material
 4. Revise e formate conforme necessário
 
 ### 📊 Passo 3: Criar Apresentação
 1. Abra o PowerPoint com Copilot ativado
-2. Use o prompt em `06_Prompts/prompt_copilot_powerpoint.txt`
+2. Use o prompt em [`06_Prompts/prompt_copilot_powerpoint.txt`](06_Prompts/prompt_copilot_powerpoint.txt)
 3. Adapte a estrutura para seus slides
 4. Aplique design consistente
 
 ### 🖼️ Passo 4: Gerar Imagens Educacionais
 1. Acesse o Microsoft Copilot Designer
-2. Use o prompt em `06_Prompts/prompt_copilot_designer.txt`
+2. Use o prompt em [`06_Prompts/prompt_copilot_designer.txt`](06_Prompts/prompt_copilot_designer.txt)
 3. Personalize estilo, cores e elementos
 4. Baixe e incorpore em seus materiais
+
+### 📁 Templates de Referência
+Após gerar conteúdo com os prompts, utilize os templates para organização:
+
+| Tipo de Material | Template | Descrição |
+|------------------|----------|-----------|
+| Plano de Aula | [`template_plano_aula.md`](01_Planos_Aula/template_plano_aula.md) | Estrutura completa de plano |
+| Texto Didático | [`template_texto_didatico.md`](02_Materiais_Didaticos/template_texto_didatico.md) | Material expositivo |
+| Exercícios | [`template_exercicios.md`](02_Materiais_Didaticos/template_exercicios.md) | Banco de atividades |
+| Apresentação | [`template_apresentacao.md`](03_Apresentacoes/template_apresentacao.md) | Slides educacionais |
+| Tradução | [`template_traducao.md`](04_Internacionalizacao/template_traducao.md) | Internacionalização |
+
+### 🎯 Adaptações para Perfis de Alunos
+Considere os diferentes estilos de aprendizagem:
+
+| Perfil | Arquivo | Quando Usar |
+|--------|---------|-------------|
+| Aprendizagem Visual | [`perfil_visual.md`](05_Perfis_Alunos/perfil_visual.md) | Alunos que aprendem melhor com imagens |
+| Aprendizagem Auditiva | [`perfil_auditivo.md`](05_Perfis_Alunos/perfil_auditivo.md) | Alunos que aprendem melhor com áudio |
+| Dificuldades de Leitura | [`perfil_leitura_dificil.md`](05_Perfis_Alunos/perfil_leitura_dificil.md) | Dislexia, TDAH, processamento |
+| Alto Interesse/Talento | [`perfil_alto_interesse.md`](05_Perfis_Alunos/perfil_alto_interesse.md) | Altas habilidades, aprofundamento |
+
+### 🔒 Guias de Referência
+| Guia | Arquivo | Conteúdo |
+|------|---------|----------|
+| Ética e Privacidade | [`checklist_etica.md`](07_Guias/checklist_etica.md) | Verificações éticas obrigatórias |
+| Uso de Ferramentas | [`guia_uso_ferramentas.md`](07_Guias/guia_uso_ferramentas.md) | Instruções detalhadas |
 
 ---
 

@@ -574,6 +574,22 @@ Antes de finalizar, VERIFIQUE:
 
 ---
 
+## 📚 Arquivos Relacionados
+
+### Templates de Apresentações
+- [Template de Apresentação](../03_Apresentacoes/template_apresentacao.md) - Template de saída
+- [Template de Texto Didático](../02_Materiais_Didaticos/template_texto_didatico.md) - Conteúdo para slides
+
+### Perfis de Alunos
+- [Perfil de Aprendizagem Visual](../05_Perfis_Alunos/perfil_visual.md) - Adaptações visuais
+- [Perfil de Aprendizagem Auditivo](../05_Perfis_Alunos/perfil_auditivo.md) - Narração de slides
+
+### Ferramentas e Guias
+- [Prompt para Copilot Designer](./prompt_copilot_designer.txt) - Para criar imagens
+- [Guia de Uso de Ferramentas](../07_Guias/guia_uso_ferramentas.md) - Instruções de uso
+
+---
+
 *Prompt otimizado para uso com Microsoft Copilot no PowerPoint*
 *Compatible com PowerPoint Online e PowerPoint Desktop*
 
