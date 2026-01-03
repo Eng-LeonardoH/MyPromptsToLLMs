@@ -1,0 +1,153 @@
+# 📖 Template: Texto Didático com IA
+
+## 📋 Metadados do Material
+
+| Campo | Descrição |
+|-------|-----------|
+| **Título** | [Título do texto] |
+| **Disciplina** | [Nome da disciplina] |
+| **Ano/Série** | [Ano escolar] |
+| **Tema** | [Tema central] |
+| **Autor** | [Nome do professor] |
+| **Data** | [Data de criação] |
+| **Versão** | 1.0 |
+
+---
+
+## 🎯 Objetivos de Aprendizagem
+
+Após a leitura deste texto, o aluno será capaz de:
+
+- [ ] Objetivo 1
+- [ ] Objetivo 2
+- [ ] Objetivo 3
+
+---
+
+## 📚 Introdução
+
+[Texto introdutório que contextualiza o tema e desperta o interesse do leitor. Deve responder: Por que este tema é importante? Como se conecta com o que o aluno já sabe?]
+
+---
+
+## 📖 Conteúdo Principal
+
+### Seção 1: [Título da Seção]
+
+[Desenvolvimento do primeiro conceito principal. Use parágrafos curtos e linguagem clara.]
+
+#### Conceito-Chave 1
+[Explicação do conceito com exemplos do cotidiano do aluno.]
+
+> **Dica de IA**: Use ChatGPT para gerar analogias que conectem conceitos abstratos com situações familiares aos alunos.
+
+### Seção 2: [Título da Seção]
+
+[Continuação do conteúdo com progressão lógica.]
+
+#### Conceito-Chave 2
+[Segundo conceito importante.]
+
+> **Exemplo Prático**: [Exemplo real ou fictício que ilustra o conceito]
+
+### Seção 3: [Título da Seção]
+
+[Terceira parte do conteúdo, aprofundando ou sintetizando.]
+
+#### Conexões
+[Como este tema se conecta com outros conhecimentos?]
+
+---
+
+## 🔍 Análise de Caso
+
+### Situação
+[Descreva um caso real ou fictício relacionado ao tema]
+
+### Perguntas para Reflexão
+1. [Pergunta 1]
+2. [Pergunta 2]
+3. [Pergunta 3]
+
+### Discussão
+[Sugestões de discussão em grupo ou individual]
+
+---
+
+## 📝 Resumo dos Pontos Principais
+
+| Conceito | Definição | Exemplo |
+|----------|-----------|---------|
+| Conceito 1 | Definição | Exemplo |
+| Conceito 2 | Definição | Exemplo |
+| Conceito 3 | Definição | Exemplo |
+
+---
+
+## ❓ Perguntas de Fixação
+
+### Nível Básico
+1. [Pergunta sobre conceito fundamental]
+2. [Pergunta sobre característica principal]
+
+### Nível Intermediário
+3. [Pergunta que exige análise]
+4. [Pergunta que exige comparação]
+
+### Nível Avançado
+5. [Pergunta que exige síntese ou aplicação]
+
+---
+
+## 🌐 Aplicações no Mundo Real
+
+### Setor 1: [Nome]
+[Como o tema se aplica a este setor]
+
+### Setor 2: [Nome]
+[Como o tema se aplica a este setor]
+
+### Setor 3: [Nome]
+[Como o tema se aplica a este setor]
+
+---
+
+## 🔗 Conexões com Outros Temas
+
+- **Tema Relacionado 1**: [Breve descrição]
+- **Tema Relacionado 2**: [Breve descrição]
+- **Tema Relacionado 3**: [Breve descrição]
+
+---
+
+## 📚 Referências
+
+1. [Referência 1 - Autor. Título. Ano.]
+2. [Referência 2 - Autor. Título. Ano.]
+3. [Referência 3 - Autor. Título. Ano.]
+
+---
+
+## 🔒 Ética e Privacidade
+
+### Verificações
+- [ ] Conteúdo verificado por professor
+- [ ] Sem dados pessoais identificáveis
+- [ ] Adequado para a faixa etária
+- [ ] Sem vieses discriminatórios
+
+### Cuidado com IA
+> **Nota**: Este material foi elaborado com auxílio de ferramentas de IA e revisado pelo professor. Todas as informações foram verificadas antes da utilização em sala de aula.
+
+---
+
+## 📎 Anexos
+
+- [Link para material complementar](link)
+- [Link para vídeo explicativo](link)
+- [Link para exercício adicional](link)
+
+---
+
+*Template criado para uso com Microsoft Copilot no Word e ChatGPT*
+
