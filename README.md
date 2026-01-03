@@ -298,7 +298,7 @@ Este projeto está sob a licença MIT.
 
 **⭐ Se este repositório foi útil, considere dar uma estrela!**
 
-**📧 Contato:** [Seu email]
+**📧 Contato:** leomakerspace@gmail.com
 
 ---
 
